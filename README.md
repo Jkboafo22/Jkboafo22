@@ -40,7 +40,7 @@
      
   </p>
 
-  <h3>🔥 Streak Stats </h3>
+  <h3>🌍 Contribution Stats </h3>
   <div align="center">
         <a href="https://git.io/streak-stats">
             <img src="https://github-readme-streak-stats.herokuapp.com?user=jkboafo22&theme=neon" alt="GitHub Streak" /></a>
