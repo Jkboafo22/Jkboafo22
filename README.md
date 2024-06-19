@@ -5,12 +5,9 @@
         <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=4f1ac2&random=false&width=435&separator=%3C&lines=Hello+%F0%9F%91%8B;++I'm+John+Kennedy+Boafo" alt="Typing SVG" /></a>
 </h1>
  
-<h2 align="center">I'm a Geospatial Engineer with my main interests center on Climate Change,Agriculture,Reforestation, Land degradation, and emerging research areas concerning Carbon Credit.  </h2>
+<h2 align="center">I'm a Geospatial Engineer with my main interests centering on Climate Change,Agriculture,Reforestation, Land degradation, and emerging research areas concerning Carbon Credit.  </h2>
 
 <br/> 
-<div align = "center">
- 🌱 I’m currently learning **Cloud Computing in Remote Sensing**
-</div>
 
 <div align="center"> 
   <a href="www.linkedin.com/in/john-kennedy-boafo" target="_blank">
@@ -20,7 +17,7 @@
 </div>
 
 
-<h3>👨‍💻 Programming Skill Set</h3>
+<h3>💻 Languages and Tools: 🛠️</h3>
 <br/>
 <div align="center">
     <img src="https://skillicons.dev/icons?i=python,javascript,mysql,postgresql" /> 
@@ -57,4 +54,3 @@
   <a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="jkboafo22's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph/?username=jkboafo22&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
 
   
-  <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
