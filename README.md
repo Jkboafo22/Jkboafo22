@@ -2,7 +2,7 @@
 
 <h1 align="center">
     <a href="https://git.io/typing-svg"> 
-        <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=4f1ac2&random=false&width=435&separator=%3C&lines=Hello+%F0%9F%91%8B;++I'm+John+Kennedy+Boafo" alt="Typing SVG" /></a>
+        <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=FF5733&random=false&width=435&separator=%3C&lines=Hello+%F0%9F%91%8B;++I'm+John+Kennedy+Boafo" alt="Typing SVG" /></a>
 </h1>
  
 <h2 align="center">I'm a Geospatial Engineer with my main interests centering on Climate Change,Agriculture,Reforestation, Land degradation, and emerging research areas concerning Carbon Credit.  </h2>
