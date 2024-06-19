@@ -1,6 +1,6 @@
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=jkboafo22.jkboafo22" />
 
-<h1 align="center">
+<h1 align="center"> 
     <a href="https://git.io/typing-svg"> 
         <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=FF5733&random=false&width=435&separator=%3C&lines=Hello+%F0%9F%91%8B;++I'm+John+Kennedy+Boafo" alt="Typing SVG" /></a>
 </h1>
@@ -10,7 +10,7 @@
 <br/> 
 
 <div align="center"> 
-  <a href="www.linkedin.com/in/john-kennedy-boafo" target="_blank">
+  <a href="linkedin.com/in/john-kennedy-boafo" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
   </a>
 
