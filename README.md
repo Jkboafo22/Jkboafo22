@@ -1,15 +1,60 @@
-<h1 align="center">Hi 👋, I'm John Kennedy Boafo</h1>
-<h3 align="center">A Geospatial Analyst from Ghana, with my main interests centering on climate change, reforestation,Agriculture,land degradation, and emerging research areas concerning carbon credit.🌱</h3>
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=jkboafo22.jkboafo22" />
 
-- 🌱 I’m currently learning **Cloud Computing in Remote Sensing**
+<h1 align="center">
+    <a href="https://git.io/typing-svg"> 
+        <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=4f1ac2&random=false&width=435&separator=%3C&lines=Hello+%F0%9F%91%8B;++I'm+John+Kennedy+Boafo" alt="Typing SVG" /></a>
+</h1>
+ 
+<h2 align="center">I'm a Geospatial Engineer with my main interests center on Climate Change,Agriculture,Reforestation, Land degradation, and emerging research areas concerning Carbon Credit.  </h2>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/www.linkedin.com/in/ john-kennedy-boafo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/ john-kennedy-boafo" height="30" width="40" /></a>
-</p>
+<br/> 
+<div align = "center">
+ 🌱 I’m currently learning **Cloud Computing in Remote Sensing**
+</div>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+<div align="center"> 
+  <a href="www.linkedin.com/in/john-kennedy-boafo" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
+  </a>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jkboafo22&" alt="jkboafo22" /></p>
+</div>
 
+
+<h3>👨‍💻 Programming Skill Set</h3>
+<br/>
+<div align="center">
+    <img src="https://skillicons.dev/icons?i=python,javascript,mysql,postgresql" /> 
+    <img src="https://skillicons.dev/icons?i=html,css,github,git" /> <br>
+</div>
+<br/>
+
+<h3>💻 Software </h3>
+
+  <p>
+       <a href="#"><img alt="Jupyter" src="https://img.shields.io/badge/Jupyter-F37626.svg?logo=Jupyter&logoColor=white"></a>
+       <a href="#"><img alt="Google Earth Engine" src="https://img.shields.io/badge/google_earth_engine-blue"></a>
+      <a href="#"><img alt="GitHub Desktop" src="https://img.shields.io/badge/GitHub%20Desktop-8034A9.svg?logo=github&logoColor=white"></a>
+       <a href="#"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?logo=visual-studio-code&logoColor=white"></a>
+      <a href="#"><img alt="QGIS" src="https://img.shields.io/badge/QGIS-234ea94b"></a>
+      <a href="#"><img alt="ArcGIS Pro" src="https://img.shields.io/badge/ArcGIS_Pro-008CC1"></a>
+      <a href="#"><img alt="Git" src="https://img.shields.io/badge/Git-F05033.svg?logo=git&logoColor=white"></a>
+      <a href="#"><img alt="PG Admin" src="https://img.shields.io/badge/PG_Admin-035a7d"></a>
+      <a href="#"><img alt="Google Colab" src="https://img.shields.io/badge/google_colab-DD6620"></a>
+     
+  </p>
+
+  <h3>🔥 Streak Stats </h3>
+  <div align="center">
+        <a href="https://git.io/streak-stats">
+            <img src="https://github-readme-streak-stats.herokuapp.com?user=jkboafo22&theme=neon" alt="GitHub Streak" /></a>
+  </div>
+
+  <h3>💻 GitHub Profile Stats</h3>  
+  
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jkboafo22&show_icons=true&theme=radical) 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jkboafo22&layout=donut&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866_height="192px")
+
+  <a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="jkboafo22's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph/?username=jkboafo22&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
+
+  
+  <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
